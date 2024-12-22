@@ -4,4 +4,4 @@
 <p>Here's a little brief as to how this simple and small thing works anyway...</p>
 
 >[!TIP]
-> tba
+> [Wiki for the Repository contains all that you need to know about current and/or upcoming functions of the Engine.](https://github.com/CornSeller69/move/wiki)
