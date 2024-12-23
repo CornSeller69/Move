@@ -6,4 +6,4 @@
 >[!TIP]
 > [Wiki for the Repository contains all that you need to know about current and/or upcoming functions of the Engine.](https://github.com/CornSeller69/move/wiki)
 
-Current up-to-date version of Move: `v1.0`
+Current up-to-date version of Move: `v1.2`
